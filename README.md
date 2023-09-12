@@ -6,7 +6,7 @@
 
 ## Furni Tools 
 
-* full stack project using Djngo
+* full stack project using Django
 * Using models (sqllight database)
 * Using template for FrontEnd
 * Dynamic data from database
