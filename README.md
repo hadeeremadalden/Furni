@@ -1,4 +1,7 @@
 # Furni
+* Commonly furniture marketing
+* It consist of buying and selling goods and service for furniture .
+* Our system is an e-commerce website from where people can buy online .
 
 ## steb by steb to run the project
 
